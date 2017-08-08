@@ -1,0 +1,2 @@
+PA_URL (([A-Za-z0-9\-]+\.)*[a-z0-9]+\.[a-z]+\/)
+PA_TIMESTAMP %{YEAR}/%{MONTHNUM}/%{MONTHDAY} %{HOUR}:?%{MINUTE}(?::?%{SECOND})?
